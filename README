@@ -1,1 +1,20 @@
+cse310
+Overview
+This project is in Rust. It is a tic tac toe game.
 
+video is linked in the assignment submission
+
+Development Environment
+This was developed using VS code and a rust download from the Rust 
+
+Useful Websites
+{Make a list of websites that you found helpful in this project}
+https://www.rust-lang.org/tools/install
+https://www.reddit.com/r/rust/comments/rya8um/could_not_find_cargotoml_in_or_any_parent/
+https://www.youtube.com/watch?v=ygL_xcavzQ4
+https://www.rust-lang.org/learn
+https://doc.rust-lang.org/rust-by-example/
+
+Future Work
+{Make a list of things that you need to fix, improve, and add in the future.}
+It would be fun to add onto this projram to have an option for the player to play against the computer. 
